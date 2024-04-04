@@ -1,5 +1,5 @@
 # 💫 About Me:
-Results-oriented Software Engineering Graduate with 6 months of experience at DECIPHEX. Proficient in programming languages such as<br>Java, C++, and Python, with a strong understanding of data structures and algorithms. Skilled in collaborating with cross-functional teams to<br>deliver scalable and efficient software solutions. I am currently working on a Git repository analysis dashboard<br>
+Results-oriented Software Engineering Graduate with 6 months of experience. Proficient in programming languages such as Java, C++,<br> and Python, with a strong understanding of data structures and algorithms. Skilled in collaborating with cross-functional teams to<br>deliver scalable and efficient software solutions. I am currently working on a Git repository analysis dashboard<br>
 
 
 ## 🌐 Socials:
